@@ -1,5 +1,2 @@
-*/__pycache__/*
-**/__pycache__
-**/__target__
-**/.ipynb_checkpoints/*
-
+.ipynb_checkpoints
+**/Pipfile.lock
