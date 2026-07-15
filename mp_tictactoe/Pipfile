@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = ">=3.0.0"
+bootstrap-flask = "*"
+flask-login = ">=0.6.3"
+flask-migrate = "*"
+flask-socketio = "*"
+flask-sqlalchemy = "*"
+flask-wtf = "*"
+transcrypt = "*"
+colorama = "*"
+Werkzeug = ">=3.0.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
